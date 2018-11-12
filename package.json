@@ -1,5 +1,5 @@
 {
-  "homepage": "https://DennisM83/github.io/myreads-project",
+  "homepage": "https://DennisM83.github.io/myreads-project",
   "dependencies": {
     "escape-string-regexp": "^1.0.5",
     "gh-pages": "^2.0.1",
