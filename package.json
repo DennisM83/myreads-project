@@ -1,4 +1,5 @@
 {
+  "homepage": "https://DennisM83/github.io/",
   "dependencies": {
     "escape-string-regexp": "^1.0.5",
     "gh-pages": "^2.0.1",
@@ -14,7 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   }
 }
